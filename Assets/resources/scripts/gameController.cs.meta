@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 989924460a406464a8d8e33ea3017d1e
+timeCreated: 1457727712
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - camera: {instanceID: 0}
+  - background: {instanceID: 0}
+  - ballPrimary: {instanceID: 0}
+  - ballSecondary: {instanceID: 0}
+  - blockPrimary: {instanceID: 0}
+  - blockSecondary: {instanceID: 0}
+  - dr4g0nbyt3Logo: {instanceID: 0}
+  - flashingLights: {instanceID: 0}
+  - guiSkin: {fileID: 11400000, guid: e081e8eca221c8e40a308d0b8cb5c567, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
