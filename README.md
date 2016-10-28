@@ -1,7 +1,5 @@
-# BlocksAndBalls
+# Blocks and Balls: Unblocked
 Mobile app
 
-Game designed and programmed by dr4g0nbyt3 and p4ntsl3ssGr4ndp4.
+Game designed and programmed by Caleb McGennis and Noah Blume.
 
-Easter Eggs... Of course.
-Maybe a bit of fun for anyone in the field of h4ck1ng.
